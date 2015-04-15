@@ -91,7 +91,7 @@ void MainMenu::setString()
 	case 7:	//Sourcecode
 	{
 				std::cout << std::endl << "Sourcecode verfuegbar auf:"
-					"\nhttps://github.com/RDProductions/Mars-Wuerfel" << std::endl;
+					"\nhttps://github.com/RDProductions/Mars-Wuerfel/tree/master" << std::endl;
 				//mOpen = true;
 	}
 		break;
